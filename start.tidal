@@ -1,0 +1,6 @@
+d1 $ sound "bd*<2 4>"
+d2 $ sound "hh hh hh [hh*3]"
+d3 $ sound "~ sd"
+setcps(0)
+
+hush
